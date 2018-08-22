@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_30">Auto Scale Cube</string>
+    <string name="action_31">Auto Exchange Cube</string>
+    <string name="action_32">Auto Baseline Cross</string>
+    <string name="action_33">Auto Switch Cube</string>
+    <string name="action_34">Alliance Switch Cube</string>
+    <string name="action_35">Scale cube</string>
+    <string name="action_36">Exchange Cube</string>
+    <string name="action_37">No Climb</string>
+    <string name="action_38">Piggyback Climb</string>
+    <string name="action_39">Climb</string>
+    <string name="action_40">Climb Assist</string>
+    <string name="action_41">Collect from Ground</string>
+    <string name="action_42">Support Failure</string>
+    <string name="action_43">Opponent Switch</string>
+    <string name="action_44">Collect from Far Portal</string>
+    <string name="action_45">Collect from Stack</string>
+    <string name="action_46">Collect from Near Portal</string>
+    <string name="action_47">Collect from Exchange</string>
+    <string-array name="action_array">
+        <item name="action_30">Auto Scale Cube</item>
+        <item name="action_31">Auto Exchange Cube</item>
+        <item name="action_32">Auto Baseline Cross</item>
+        <item name="action_33">Auto Switch Cube</item>
+        <item name="action_34">Alliance Switch Cube</item>
+        <item name="action_35">Scale Cube</item>
+        <item name="action_36">Exchange Cube</item>
+        <item name="action_37">No Climb</item>
+        <item name="action_38">Piggyback Climb</item>
+        <item name="action_39">Climb</item>
+        <item name="action_40">Climb Assist</item>
+        <item name="action_41">Collect from Ground</item>
+        <item name="action_42">Support Failure</item>
+        <item name="action_43">Opponent Switch</item>
+        <item name="action_44">Collect from Far Portal</item>
+        <item name="action_45">Collect from Stack</item>
+        <item name="action_46">Collect from Near Portal</item>
+        <item name="action_47">Collect from Exchange</item>
+    </string-array>
+</resources>
