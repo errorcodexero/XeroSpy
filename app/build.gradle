@@ -29,11 +29,11 @@ android {
 
 
 dependencies {
-    compile group: 'commons-net', name: 'commons-net', version: '3.3'
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile project(':mysql-connector-java-5.1.40-bin')
+    implementation group: 'commons-net', name: 'commons-net', version: '3.3'
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation project(':mysql-connector-java-5.1.40-bin')
 
-    compile 'com.android.support:appcompat-v7:24.2.1'
-    compile 'com.android.support:support-v4:24.2.1'
-    testCompile 'junit:junit:4.12'
+    implementation 'com.android.support:appcompat-v7:24.2.1'
+    implementation 'com.android.support:support-v4:24.2.1'
+    testImplementation 'junit:junit:4.12'
 }
