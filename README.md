@@ -1,4 +1,4 @@
-# XeroScouter Collect
+# XeroSpy
 
 Our data collection Android application.
 
