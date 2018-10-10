@@ -1,7 +1,5 @@
 package wilsonvillerobotics.com.xeroscoutercollect.models;
 
-import junit.framework.Test;
-
 import java.util.ArrayList;
 
 /**
